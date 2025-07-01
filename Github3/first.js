@@ -10,3 +10,6 @@ const payment ="integrated the payment Gateway";
 console.log(payment);
 
 console.log(":latest changes");
+
+// i am fixing bug
+consolelog("bug fixed");
